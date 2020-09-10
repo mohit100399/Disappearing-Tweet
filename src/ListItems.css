@@ -1,0 +1,22 @@
+body{
+    background-image: url('./2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+.list{
+    position: relative;
+    color: #000;
+    width: 300px;
+    object-fit: cover;
+    background-color: rgba(241, 245, 247, 0.577);
+    height: 120px;
+    margin: 1px;
+    border-radius: 10px;
+    overflow: hidden;
+    display: inline-block;
+}
