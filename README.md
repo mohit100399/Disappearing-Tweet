@@ -1,3 +1,11 @@
+Day 1 and Day 2 ----> As mentioned i created an input field to enter the tweet and another input field for date picker adding some basic visual features. Then i made a button with name="TWEET" having a "send" icon.
+
+Day 3 ----> Binded the values so that on pressing the button TWEET the values of tweet and date gets stored in their respective fields. This is visible on the console screen.
+
+Day 4 ----> Worked with learning the redux store and disabling date time picker.
+
+Since, this feature was new to me, it took a bit more time but i did not lose hope and worked hard with it. I was unable to get through Redux store and disappering the value due to less experience but i look forward to work on it and complete all of it if i get more time and knowledge regarding this. I learned alot throughout the process and found it as a great opportunity to dig into it for these 4 days. I was able to do it enthusiastically as i keep interest in this.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
